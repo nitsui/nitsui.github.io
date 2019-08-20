@@ -1,2 +1,2 @@
-# public_html
+# nitsui.github.io
 private static site
